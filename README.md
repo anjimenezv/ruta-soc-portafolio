@@ -23,3 +23,14 @@ Este repositorio es mi espacio personal donde estoy documentando todo mi proceso
 git add .
 git commit -m "mensaje"
 git push origin main
+
+| 🧩 Tema                           | 📌 Estado        | 🗒️ Notas                                            |
+|-----------------------------------|------------------|-----------------------------------------------------|
+| 🔍 Análisis Forense Digital       | 🔄 En progreso   | Revisión de incidentes, recuperación y análisis de evidencias |
+| 🔐 Criptografía                   | 🔜 Por iniciar   | Cifrado, claves, protocolos seguros                |
+| 🛡️ Gestión de Seguridad Informática | 🔜 Por iniciar   | Políticas, normativas, ISO 27001, continuidad del negocio |
+| 🎯 Ingeniería Social              | 🔜 Por iniciar   | Técnicas, prevención y simulación de ataques       |
+| 🧪 Investigación en Seguridad     | 🔜 Por iniciar   | Técnicas de búsqueda de amenazas, estudios de casos |
+| 📱 Seguridad de Aplicaciones Móviles | 🔜 Por iniciar   | Análisis de vulnerabilidades, OWASP Mobile Top 10  |
+| 🧷 Sistemas de Detección de Intrusos (IDS) | 🔜 Por iniciar | Uso de herramientas como Snort, Suricata, Wazuh |
+
