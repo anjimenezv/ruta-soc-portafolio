@@ -14,15 +14,8 @@ Este repositorio es mi espacio personal donde estoy documentando todo mi proceso
 
 ---
 
-## 🧠 Cosas que ya aprendí
+## 🧠 Ruta de aprendizaje SOC
 
-✅ Configurar Git y GitHub desde VS Code  
-✅ Crear y clonar un repositorio  
-✅ Subir cambios usando:
-```bash
-git add .
-git commit -m "mensaje"
-git push origin main
 
 | 🧩 Tema                           | 📌 Estado        | 🗒️ Notas                                            |
 |-----------------------------------|------------------|-----------------------------------------------------|
