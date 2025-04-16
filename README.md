@@ -4,3 +4,7 @@ Entrenamiento personal hacia el rol de Analista SOC con documentación, scripts 
 ## Nueva actualización
 
 Estoy aprendiendo cómo subir cambios desde VS Code a GitHub.
+
+### Aprendiendo día a día
+
+Lo logré!!!
