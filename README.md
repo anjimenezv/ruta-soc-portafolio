@@ -1,14 +1,25 @@
-# ruta-soc-portafolio
-Entrenamiento personal hacia el rol de Analista SOC con documentación, scripts y aprendizaje técnico.
+# 🛡️ Ruta SOC - Portafolio de Aprendizaje
 
-## Nueva actualización
+¡Hola! Soy **Andrés Jiménez**, Ingeniero Electrónico y Especialista en Seguridad Informática.  
+Este repositorio es mi espacio personal donde estoy documentando todo mi proceso de aprendizaje para convertirme en **Analista SOC (Security Operations Center)**.
 
-Estoy aprendiendo cómo subir cambios desde VS Code a GitHub.
+---
 
-### Aprendiendo día a día
+## 👨‍💻 Sobre mí
 
-Lo logré!!!
+- 💻 Apasionado por la ciberseguridad y los procesos automatizados.
+- 🧠 Estudiando para convertirme en Analista SOC.
+- 🐍 Con conocimientos básicos en Python (en proceso de profundización).
+- 🚀 Quiero demostrar mi evolución día a día.
 
-# Vincular VsCode con GitHub
+---
 
-Si se puede.
+## 🧠 Cosas que ya aprendí
+
+✅ Configurar Git y GitHub desde VS Code  
+✅ Crear y clonar un repositorio  
+✅ Subir cambios usando:
+```bash
+git add .
+git commit -m "mensaje"
+git push origin main
