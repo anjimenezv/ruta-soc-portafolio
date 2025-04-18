@@ -16,15 +16,20 @@ Este repositorio es mi espacio personal donde estoy documentando todo mi proceso
 
 ## 🧠 Ruta de aprendizaje SOC
 
+🧭 Temas Principales a Tratar
+En esta ruta de aprendizaje me enfocaré en los siguientes temas fundamentales de la seguridad informática, los cuales hacen parte del rol de un Analista SOC:
 
-| 🧩 Tema                           | 📌 Estado        | 🗒️ Notas                                            |
-|-----------------------------------|------------------|-----------------------------------------------------|
-| 🧪 Investigación en Seguridad Informática     | 🔜 Por iniciar   | Técnicas de búsqueda de amenazas, estudios de casos |
-| 🔍 Análisis Forense Digital       | 🔜 Por iniciar    | Revisión de incidentes, recuperación y análisis de evidencias |
-| 🔐 Criptografía                   | 🔜 Por iniciar   | Cifrado, claves, protocolos seguros                |
-| 🛡️ Gestión de Seguridad Informática | 🔜 Por iniciar   | Políticas, normativas, ISO 27001, continuidad del negocio |
-| 🎯 Ingeniería Social              | 🔜 Por iniciar   | Técnicas, prevención y simulación de ataques       |
+🧪 Investigación en Seguridad Informática
 
-| 📱 Seguridad de Aplicaciones Móviles | 🔜 Por iniciar   | Análisis de vulnerabilidades, OWASP Mobile Top 10  |
-| 🧷 Sistemas de Detección de Intrusos (IDS) | 🔜 Por iniciar | Uso de herramientas como Snort, Suricata, Wazuh |
+🛡️ Gestión de Seguridad Informática
+
+🔍 Análisis Forense Digital
+
+🔐 Criptografía
+
+🎯 Ingeniería Social
+
+📱 Seguridad de Aplicaciones Móviles
+
+🧰 Todas las prácticas y laboratorios los realizaré principalmente usando Kali Linux dentro de máquinas virtuales, para simular escenarios reales de análisis y respuesta a incidentes.
 
