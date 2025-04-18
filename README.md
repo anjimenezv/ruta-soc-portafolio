@@ -19,7 +19,7 @@ Este repositorio es mi espacio personal donde estoy documentando todo mi proceso
 
 | 🧩 Tema                           | 📌 Estado        | 🗒️ Notas                                            |
 |-----------------------------------|------------------|-----------------------------------------------------|
-| 🧪 Investigación en Seguridad     | 🔜 Por iniciar   | Técnicas de búsqueda de amenazas, estudios de casos |
+| 🧪 Investigación en Seguridad Informática     | 🔜 Por iniciar   | Técnicas de búsqueda de amenazas, estudios de casos |
 | 🔍 Análisis Forense Digital       | 🔜 Por iniciar    | Revisión de incidentes, recuperación y análisis de evidencias |
 | 🔐 Criptografía                   | 🔜 Por iniciar   | Cifrado, claves, protocolos seguros                |
 | 🛡️ Gestión de Seguridad Informática | 🔜 Por iniciar   | Políticas, normativas, ISO 27001, continuidad del negocio |
